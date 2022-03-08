@@ -16,7 +16,7 @@ body {
 p {
     color: #444444;
     font-family: 'Roboto', sans-serif;
-    font-size: 16pt;
+    font-size: 18.5pt;
     line-height: 1;
     margin: 4pt;
 }
@@ -51,9 +51,9 @@ p.question {
 h1 {
     color: #222222;
     font-family: 'Montserrat', sans-serif;
-    font-size: 72pt;
+    font-size: 36pt;
     text-align: center;
-    line-height: 72pt;
+    line-height: 36pt;
     margin-top: 0pt;
     margin-bottom: 0pt;
 }
@@ -63,8 +63,8 @@ h1 {
 h2 {
     color: #333333;
     font-family: 'Montserrat', sans-serif;
-    font-size: 36pt;
-    line-height: 36pt;
+    font-size: 30pt;
+    line-height: 32pt;
     margin-top: 12pt;
     margin-bottom: 0pt;
 }
@@ -221,23 +221,9 @@ span.weight-300 {
 	}
 	
 	.title {
-		display: none;
+		font-size: 18px;
 	}
-	
-    #svgHeader {
-		display: block !important;
-    }
 
-	.svgHeader {
-		color: #222222;
-		font-family: 'Montserrat', sans-serif;
-		text-align: center;
-		margin-top: 0pt;
-		margin-bottom: 0pt;
-		font-weight: bold;
-        text-anchor: middle;
-	}
-	
 	#banner {
 		min-width: 0px;
 		max-width: 100%;
